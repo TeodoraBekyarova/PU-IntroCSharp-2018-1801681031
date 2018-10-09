@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHiProgram", "TheHiProgram\TheHiProgram.csproj", "{139B261D-942E-4ED0-8A27-57A1F07A0C4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheHiProgram", "TheHiProgram\TheHiProgram.csproj", "{139B261D-942E-4ED0-8A27-57A1F07A0C4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeAfter10Years", "AgeAfter10Years\AgeAfter10Years.csproj", "{FBA3BF62-96E4-4850-B7C8-4D00E56264A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeAfter10Years", "AgeAfter10Years\AgeAfter10Years.csproj", "{FBA3BF62-96E4-4850-B7C8-4D00E56264A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week2", "week2", "{FEF1D7BC-731D-4C4B-90C4-79521112A154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel2TheSunWithSound", "Travel2TheSunWithSound\Travel2TheSunWithSound.csproj", "{B02E54E9-ED55-41AC-82BD-AADF203A1FDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +25,16 @@ Global
 		{FBA3BF62-96E4-4850-B7C8-4D00E56264A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBA3BF62-96E4-4850-B7C8-4D00E56264A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBA3BF62-96E4-4850-B7C8-4D00E56264A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02E54E9-ED55-41AC-82BD-AADF203A1FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02E54E9-ED55-41AC-82BD-AADF203A1FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02E54E9-ED55-41AC-82BD-AADF203A1FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02E54E9-ED55-41AC-82BD-AADF203A1FDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B02E54E9-ED55-41AC-82BD-AADF203A1FDE} = {FEF1D7BC-731D-4C4B-90C4-79521112A154}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {615978A1-C761-45B3-9EC7-D492CE5BFED6}
