@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyUniqueNumber", "MyUniqueN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4thDigits", "4thDigits\4thDigits.csproj", "{FE9DAD90-C0CA-4BDF-B429-3164EE091E63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightInTheSolarSystem", "WeightInTheSolarSystem\WeightInTheSolarSystem.csproj", "{DBB04820-25DD-43EE-8959-7E9CC0E3C476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{FE9DAD90-C0CA-4BDF-B429-3164EE091E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE9DAD90-C0CA-4BDF-B429-3164EE091E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE9DAD90-C0CA-4BDF-B429-3164EE091E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB04820-25DD-43EE-8959-7E9CC0E3C476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB04820-25DD-43EE-8959-7E9CC0E3C476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB04820-25DD-43EE-8959-7E9CC0E3C476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB04820-25DD-43EE-8959-7E9CC0E3C476}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{B02E54E9-ED55-41AC-82BD-AADF203A1FDE} = {FEF1D7BC-731D-4C4B-90C4-79521112A154}
 		{FE9DAD90-C0CA-4BDF-B429-3164EE091E63} = {FEF1D7BC-731D-4C4B-90C4-79521112A154}
+		{DBB04820-25DD-43EE-8959-7E9CC0E3C476} = {FEF1D7BC-731D-4C4B-90C4-79521112A154}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {615978A1-C761-45B3-9EC7-D492CE5BFED6}
