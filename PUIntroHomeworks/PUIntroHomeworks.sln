@@ -11,7 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week2", "week2", "{FEF1D7BC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travel2TheSunWithSound", "Travel2TheSunWithSound\Travel2TheSunWithSound.csproj", "{B02E54E9-ED55-41AC-82BD-AADF203A1FDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyUniqueNumber", "MyUniqueNumber\MyUniqueNumber.csproj", "{2979CF6B-15D8-4051-8AE9-73FAEC4E652A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyUniqueNumber", "MyUniqueNumber\MyUniqueNumber.csproj", "{2979CF6B-15D8-4051-8AE9-73FAEC4E652A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4thDigits", "4thDigits\4thDigits.csproj", "{FE9DAD90-C0CA-4BDF-B429-3164EE091E63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,12 +37,17 @@ Global
 		{2979CF6B-15D8-4051-8AE9-73FAEC4E652A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2979CF6B-15D8-4051-8AE9-73FAEC4E652A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2979CF6B-15D8-4051-8AE9-73FAEC4E652A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9DAD90-C0CA-4BDF-B429-3164EE091E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9DAD90-C0CA-4BDF-B429-3164EE091E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9DAD90-C0CA-4BDF-B429-3164EE091E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9DAD90-C0CA-4BDF-B429-3164EE091E63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B02E54E9-ED55-41AC-82BD-AADF203A1FDE} = {FEF1D7BC-731D-4C4B-90C4-79521112A154}
+		{FE9DAD90-C0CA-4BDF-B429-3164EE091E63} = {FEF1D7BC-731D-4C4B-90C4-79521112A154}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {615978A1-C761-45B3-9EC7-D492CE5BFED6}
