@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travel2TheSunWithSound", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyUniqueNumber", "MyUniqueNumber\MyUniqueNumber.csproj", "{2979CF6B-15D8-4051-8AE9-73FAEC4E652A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4thDigits", "4thDigits\4thDigits.csproj", "{FE9DAD90-C0CA-4BDF-B429-3164EE091E63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4thDigits", "4thDigits\4thDigits.csproj", "{FE9DAD90-C0CA-4BDF-B429-3164EE091E63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightInTheSolarSystem", "WeightInTheSolarSystem\WeightInTheSolarSystem.csproj", "{DBB04820-25DD-43EE-8959-7E9CC0E3C476}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeightInTheSolarSystem", "WeightInTheSolarSystem\WeightInTheSolarSystem.csproj", "{DBB04820-25DD-43EE-8959-7E9CC0E3C476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetween2PointsInPlane", "DistanceBetween2PointsInPlane\DistanceBetween2PointsInPlane.csproj", "{054345BF-4291-404A-8852-1F8D3C7537D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{DBB04820-25DD-43EE-8959-7E9CC0E3C476}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBB04820-25DD-43EE-8959-7E9CC0E3C476}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBB04820-25DD-43EE-8959-7E9CC0E3C476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054345BF-4291-404A-8852-1F8D3C7537D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054345BF-4291-404A-8852-1F8D3C7537D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054345BF-4291-404A-8852-1F8D3C7537D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054345BF-4291-404A-8852-1F8D3C7537D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +61,7 @@ Global
 		{B02E54E9-ED55-41AC-82BD-AADF203A1FDE} = {FEF1D7BC-731D-4C4B-90C4-79521112A154}
 		{FE9DAD90-C0CA-4BDF-B429-3164EE091E63} = {FEF1D7BC-731D-4C4B-90C4-79521112A154}
 		{DBB04820-25DD-43EE-8959-7E9CC0E3C476} = {FEF1D7BC-731D-4C4B-90C4-79521112A154}
+		{054345BF-4291-404A-8852-1F8D3C7537D4} = {FEF1D7BC-731D-4C4B-90C4-79521112A154}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {615978A1-C761-45B3-9EC7-D492CE5BFED6}
