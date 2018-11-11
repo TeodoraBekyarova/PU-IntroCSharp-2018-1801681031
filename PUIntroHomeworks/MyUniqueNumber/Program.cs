@@ -18,7 +18,23 @@ namespace MyUniqueNumber
             Console.WriteLine("After 10 years you will be " + ageAfter10Years(age) + " years old. " +
                 "And your unique number is: " + result);
         }
-            private static int AgeAfter10Years(int myAge);
+
+        private static string ageAfter10Years(object age)
+        {
+            throw new NotImplementedException();
+        }
+
+        private static object ageAfter10Years(int myAge)
+        {
+            throw new NotImplementedException();
+        }
+
+        private static double myUniqueNumber(object p, int last4Digits)
+        {
+            throw new NotImplementedException();
+        }
+
+        private static int AgeAfter10Years(int myAge);
 
         {
             int ageAfter10Years = myAge + 10;
