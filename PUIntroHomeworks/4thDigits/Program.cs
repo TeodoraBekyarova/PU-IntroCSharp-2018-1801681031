@@ -12,10 +12,11 @@ namespace _4thDigits
             {
                 Console.WriteLine("The number you entered is not a 7 digits number!");
             }
+
             else
             {
                 int forthDigit = number % 1000000 % 100000 % 10000 / 1000;
-                Console.WriteLine($The 4th digith of { number} is { forthDigit});
+                Console.WriteLine($"The 4th digith of { number} is { forthDigit}");
         }
     }
 }
